@@ -1,2 +1,2 @@
 # rust-features
-Examples to show go language grammar pits.
+Examples to show rust language grammar pits.
